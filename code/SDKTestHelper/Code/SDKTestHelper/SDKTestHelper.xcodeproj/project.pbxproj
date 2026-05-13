@@ -204,7 +204,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0EC1081B974A876FD9C820A6 /* JLDialUnit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JLDialUnit.xcframework; path = Frameworks/JLDialUnit.xcframework; sourceTree = "<group>"; };
+		0EC1081B974A876FD9C820A6 /* JLDialUnit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JLDialUnit.xcframework; path = Frameworks/JLDialUnit.xcframework; sourceTree = "<group>"; };
 		1D0310782B81DD8900056215 /* BaseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseView.swift; sourceTree = "<group>"; };
 		1D0310792B81DD8A00056215 /* NavViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavViewController.swift; sourceTree = "<group>"; };
 		1D03107A2B81DD8A00056215 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
@@ -317,7 +317,7 @@
 		1D86EE382D2CB7A100DA797B /* JLAudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JLAudioPlayer.swift; sourceTree = "<group>"; };
 		1D86EE392D2CB7A100DA797B /* JLAudioRecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JLAudioRecoder.swift; sourceTree = "<group>"; };
 		1D86EE3C2D2CB7C200DA797B /* SpectrogramView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpectrogramView.swift; sourceTree = "<group>"; };
-		1D89F602B55D6382397949B3 /* JLLogHelper.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JLLogHelper.xcframework; path = Frameworks/JLLogHelper.xcframework; sourceTree = "<group>"; };
+		1D89F602B55D6382397949B3 /* JLLogHelper.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JLLogHelper.xcframework; path = Frameworks/JLLogHelper.xcframework; sourceTree = "<group>"; };
 		1D8EE1AA2E01580300D2824C /* EmptyStateTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyStateTableView.swift; sourceTree = "<group>"; };
 		1D8EE1E22E02E13B00D2824C /* Image2BinVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image2BinVC.swift; sourceTree = "<group>"; };
 		1D8EE1EF2E03AB0E00D2824C /* BrowseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowseViewController.swift; sourceTree = "<group>"; };
@@ -370,15 +370,15 @@
 		1DFAA71F2B9085730087B9B4 /* R.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = SOURCE_ROOT; };
 		1DFAA7482B91CE080087B9B4 /* SettingInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingInfo.swift; sourceTree = "<group>"; };
 		42CBF50F90C7B273D9FE234A /* libPods-SDKTestHelper.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SDKTestHelper.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5AA74BD1765C92164203D481 /* JL_OTALib.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JL_OTALib.xcframework; path = Frameworks/JL_OTALib.xcframework; sourceTree = "<group>"; };
-		6A65304400B70AB0F02F1C76 /* JL_BLEKit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JL_BLEKit.xcframework; path = Frameworks/JL_BLEKit.xcframework; sourceTree = "<group>"; };
-		6BB4A5D42FA7988194C10B94 /* JLBmpConvertKit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JLBmpConvertKit.xcframework; path = Frameworks/JLBmpConvertKit.xcframework; sourceTree = "<group>"; };
+		5AA74BD1765C92164203D481 /* JL_OTALib.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JL_OTALib.xcframework; path = Frameworks/JL_OTALib.xcframework; sourceTree = "<group>"; };
+		6A65304400B70AB0F02F1C76 /* JL_BLEKit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JL_BLEKit.xcframework; path = Frameworks/JL_BLEKit.xcframework; sourceTree = "<group>"; };
+		6BB4A5D42FA7988194C10B94 /* JLBmpConvertKit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JLBmpConvertKit.xcframework; path = Frameworks/JLBmpConvertKit.xcframework; sourceTree = "<group>"; };
 		7CDF4862CDF9D2B97BEF5E24 /* Pods-SDKTestHelper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDKTestHelper.debug.xcconfig"; path = "Target Support Files/Pods-SDKTestHelper/Pods-SDKTestHelper.debug.xcconfig"; sourceTree = "<group>"; };
-		CC773ABF9FCED8DD2641E1AF /* JL_AdvParse.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JL_AdvParse.xcframework; path = Frameworks/JL_AdvParse.xcframework; sourceTree = "<group>"; };
-		DB06BC82FF36AED06DDB3742 /* JL_HashPair.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JL_HashPair.xcframework; path = Frameworks/JL_HashPair.xcframework; sourceTree = "<group>"; };
+		CC773ABF9FCED8DD2641E1AF /* JL_AdvParse.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JL_AdvParse.xcframework; path = Frameworks/JL_AdvParse.xcframework; sourceTree = "<group>"; };
+		DB06BC82FF36AED06DDB3742 /* JL_HashPair.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JL_HashPair.xcframework; path = Frameworks/JL_HashPair.xcframework; sourceTree = "<group>"; };
 		E210C4A02D0E000100000001 /* NrfWriteInputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NrfWriteInputViewController.swift; sourceTree = "<group>"; };
 		EA722C1456A6CB236D9F58EF /* Pods-SDKTestHelper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDKTestHelper.release.xcconfig"; path = "Target Support Files/Pods-SDKTestHelper/Pods-SDKTestHelper.release.xcconfig"; sourceTree = "<group>"; };
-		FDDF423FFFD3CC8A5CD0C142 /* JLPackageResKit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = JLPackageResKit.xcframework; path = Frameworks/JLPackageResKit.xcframework; sourceTree = "<group>"; };
+		FDDF423FFFD3CC8A5CD0C142 /* JLPackageResKit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = JLPackageResKit.xcframework; path = Frameworks/JLPackageResKit.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1539,9 +1539,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = SDKTestHelper/SDKTestHelper.entitlements;
-				CODE_SIGN_STYLE = Automatic;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 23;
-				DEVELOPMENT_TEAM = J8GU9SL7NG;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 753GV93DM2;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1550,8 +1552,10 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SDKTestHelper/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = JLSDKTester;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Use for transport with jl devices";
 				INFOPLIST_KEY_NSCameraUsageDescription = "create dial backgroud";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "为了连接 Wi-Fi 热点，需要使用您的定位权限";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Record PCM Data";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "use for scan key auth ";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -1566,8 +1570,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zh-jieli.SDKTestHelper";
+				PRODUCT_BUNDLE_IDENTIFIER = dgmctech.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "dgmc-dev-dev";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1586,9 +1592,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = SDKTestHelper/SDKTestHelper.entitlements;
-				CODE_SIGN_STYLE = Automatic;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 23;
-				DEVELOPMENT_TEAM = J8GU9SL7NG;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 753GV93DM2;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1597,8 +1605,10 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SDKTestHelper/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = JLSDKTester;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Use for transport with jl devices";
 				INFOPLIST_KEY_NSCameraUsageDescription = "create dial backgroud";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "为了连接 Wi-Fi 热点，需要使用您的定位权限";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Record PCM Data";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "use for scan key auth ";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -1613,8 +1623,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zh-jieli.SDKTestHelper";
+				PRODUCT_BUNDLE_IDENTIFIER = dgmctech.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "dgmc-dev-dev";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;

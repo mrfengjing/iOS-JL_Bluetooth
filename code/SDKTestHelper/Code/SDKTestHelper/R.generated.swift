@@ -2851,7 +2851,7 @@ struct _R {
     let comAppleDeveloperNetworkingWifiInfo: Bool = true
   }
 
-  /// This `_R.file` struct is generated, and contains static references to 13 resource files.
+  /// This `_R.file` struct is generated, and contains static references to 12 resource files.
   struct file {
     let bundle: Foundation.Bundle
 
@@ -2866,9 +2866,6 @@ struct _R {
 
     /// Resource file `CodeExample.plist`.
     var codeExamplePlist: RswiftResources.FileResource { .init(name: "CodeExample", pathExtension: "plist", bundle: bundle, locale: LocaleReference.none) }
-
-    /// Resource file `README.md`.
-    var readmeMd: RswiftResources.FileResource { .init(name: "README", pathExtension: "md", bundle: bundle, locale: LocaleReference.none) }
 
     /// Resource file `VIE1.png`.
     var vie1Png: RswiftResources.FileResource { .init(name: "VIE1", pathExtension: "png", bundle: bundle, locale: LocaleReference.none) }
